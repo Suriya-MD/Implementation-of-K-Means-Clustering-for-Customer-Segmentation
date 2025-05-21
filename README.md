@@ -14,7 +14,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 3.Check for missing values in the dataset to ensure data quality.
 
-4.Select the features Annual Income (k$) and Spending Score (1-100) for clustering.
+4.Select the features Annual Income (k$) and Spending Score (1-100) for clustering..
 
 5.Use the Elbow Method by running KMeans for cluster counts from 1 to 10 and record the Within-Cluster Sum of Squares (WCSS).
 
